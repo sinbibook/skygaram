@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-08T06:43:31.752885976Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-08T06:48:42.596731630Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -542,14 +542,73 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "푸른 산과 나무들에 둘러싸여 여유롭게 쉬어가기 좋은 공간. 아름다운 정원과 가까운 청계호수에서 자연의 분위기를 온전히 느껴보세요. 복잡한 일상에서 벗어나 맑은 공기 속 힐링을 즐길 수 있는 포천 스테이입니다.",
+                "images": [
+                  {
+                    "id": "a50ad9e7-1d46-4eee-9925-96b99abfde0a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_essence/1778222815964-tq5ihw74n7.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "4dd2ea5d-ce7e-4995-9034-609944208f15",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_essence/1778222815930-is47zyise9.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "A peaceful stay surrounded by green mountains and trees."
               },
               "gallery": {
                 "title": "Preview",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "f7f4671e-c97d-4cf4-92b7-f93169cbd299",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779670-n3jdc36vwi.jpg",
+                    "sortOrder": 0,
+                    "description": "정원",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "8a2e0a9a-1a0c-4fcc-bd8f-c83217f3b315",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779766-8wl3x1pgqf.jpg",
+                    "sortOrder": 1,
+                    "description": "객실 내부",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "c066fe8b-cd4c-4ebb-af25-34d9f19b498a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779674-fcxhc30vf6.jpg",
+                    "sortOrder": 2,
+                    "description": "청계호수",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "1d0436e8-1885-412e-bcb5-a5577f572f0a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779769-04w6la9inb.jpg",
+                    "sortOrder": 3,
+                    "description": "개별바베큐",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "242edd21-b14e-4341-a8e0-3bb0c030b2a0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779773-zpy7o9vh1p.jpg",
+                    "sortOrder": 4,
+                    "description": "객실 내부",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": " "
