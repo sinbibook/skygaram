@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-08T06:36:05.382983444Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-08T06:43:31.752885976Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -526,7 +526,7 @@
                 "mediaType": "image"
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "12d8a4ae-3709-4149-a3b4-0a765fccd562",
@@ -538,7 +538,8 @@
                   }
                 ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "essence": {
                 "title": "",
@@ -547,10 +548,11 @@
                 "mediaType": "image"
               },
               "gallery": {
-                "title": "",
+                "title": "Preview",
                 "images": [ ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "signature": {
                 "title": "",
@@ -571,6 +573,14 @@
                     "id": "c90bace2-9b41-4701-bf38-8c9df9d5635f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/directions_hero/1778222146475-kjjd9zmyf0.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "252ca983-05f6-4508-827b-29351da15429",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/directions_hero/1778222216778-xm6bcp7tua.jpg",
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -611,7 +621,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "ccc510ef-859e-4c5e-a3a8-00766fa5f698",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/reservation_hero/1778222606084-w8qko466wi.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "about": {
                 "title": "",
@@ -653,7 +672,62 @@
       },
       "property": {
         "name": "포천 하늘가람펜션",
-        "images": [ ],
+        "images": [
+          {
+            "id": "cf0f8ea1-114f-43f5-a509-be6f6c91248d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/property_exterior/1778222606169-z5i9be9sv4.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "6e2ce2de-9e40-4490-9ee9-9f6bde6d60be",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/property_surrounding/1778222606179-3qv2yzs9on.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_surrounding"
+          },
+          {
+            "id": "bf28743f-409b-4c6d-8f2b-aee8d24111a0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/property_surrounding/1778222606179-qmcz1uin2j.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_surrounding"
+          },
+          {
+            "id": "4caf5c54-657d-4507-ab3c-0ce03817c096",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/property_surrounding/1778222606174-xgti6nremf.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_surrounding"
+          },
+          {
+            "id": "4655f423-6656-4c47-b241-580e68633e95",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/property_surrounding/1778222606184-1j83fyg76s.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_surrounding"
+          },
+          {
+            "id": "d3e6fdd7-7380-4095-b755-fef855447e2d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/property_surrounding/1778222606172-y4xpdu31xb.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_surrounding"
+          }
+        ],
         "nameEn": "Pocheon Skygaram Pension"
       },
       "roomtypes": [
