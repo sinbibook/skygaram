@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-08T06:48:42.596731630Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-08T06:51:39.178347233Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -615,7 +615,16 @@
               },
               "signature": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "1440b774-29d5-450a-b320-fa7e455be25d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_signature/1778223025627-x24xwxjpo4.jpg",
+                    "sortOrder": 0,
+                    "description": "푸른 산과 나무들에 둘러싸인 평화로운 힐링 스테이🍃",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image"
               }
