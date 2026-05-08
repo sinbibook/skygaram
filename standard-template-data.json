@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-08T06:52:49.988702115Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-08T06:56:48.997112918Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -76,7 +76,32 @@
         "description": "객실 별 개별 바베큐 이용이 가능합니다. ",
         "usageGuide": "[개별바비큐]\n- 원적외선 그릴바비큐 : 2인기준 10,000원 / 기준인원 초과 시 1인당 5,000원 추가요금 발생 (1박기준/현장결제)\n- 운영시간 : 제한없음\n",
         "displayOrder": 0,
-        "images": [ ]
+        "images": [
+          {
+            "id": "db127683-9040-40fe-aac2-fb1f12829507",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac96babe-ea63-4a1d-97c2-819f8d06da77/main/1778223241067-voyfktxqvs.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f6375989-d176-4f75-b5ed-22e4a4e77699",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac96babe-ea63-4a1d-97c2-819f8d06da77/main/1778223241073-zpaxej9epo.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f9202fcd-9de3-488d-bd25-88b41d391342",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ac96babe-ea63-4a1d-97c2-819f8d06da77/main/1778223241069-5k69nv8nce.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "5240e43a-d7ee-4981-b637-ebd6dbbdee97",
@@ -84,7 +109,24 @@
         "description": "숯 그릴 바베큐를 원할 경우 공용 바베큐장에서 이용 가능합니다.",
         "usageGuide": "[공용바비큐]\n- 숯+그릴 : 2인기준 20,000원 / 기준인원 초과 시 1인당 5,000원 추가요금 발생 (1박기준/현장결제)\n- 숮+그릴 제공시간 : 입실시~21시\n- 이용시간 : 제한없음",
         "displayOrder": 1,
-        "images": [ ]
+        "images": [
+          {
+            "id": "92646780-0d7b-4060-ac00-9323fb26a2db",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5240e43a-d7ee-4981-b637-ebd6dbbdee97/main/1778223241740-gstj39tgm5.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7bffc9a4-d41a-47de-83a5-35ab0c777f6e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5240e43a-d7ee-4981-b637-ebd6dbbdee97/main/1778223241713-irpbof567l.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -427,7 +469,16 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "efda4d59-0f1f-48cb-b694-d4d7ba7b7362",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/logo/1778223403652-5hu0von2sn.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
