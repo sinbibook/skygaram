@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-05-08T06:57:19.232328593Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-05-08T07:07:19.034276786Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -707,8 +707,8 @@
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": "🚌 대중교통 이용 안내",
+                "description": "일동시외버스터미널 하차\n일동터미널 도착 후 택시 이용 시 약 10~15분 내외 소요\n시내버스 이용 시 운악청계로 방면 버스 탑승 후 인근 정류장 하차\n\n지하철 + 버스 이용 시\n1호선 또는 7호선 → 의정부역 이동\n의정부역 환승센터에서 포천·일동 방면 버스 이용\n일동터미널 하차 후 택시 이동\n택시 이동 안내\n일동시외버스터미널 기준 약 7~10km 거리\n택시 약 10~15분 내외 소요"
               }
             }
           ]
