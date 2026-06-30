@@ -1,1 +1,1 @@
-# skygaram
+# template-full-banner-slider-flat Template
