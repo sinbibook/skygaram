@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.41.0",
-    "generatedAt": "2026-06-30T02:13:23.575584590Z",
+    "version": "1.42.0",
+    "generatedAt": "2026-06-30T02:14:37.894548215Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -1353,26 +1353,26 @@
                     "blockId": null
                   },
                   {
-                    "id": "c066fe8b-cd4c-4ebb-af25-34d9f19b498a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779674-fcxhc30vf6.jpg",
+                    "id": "1920a7b0-5cf4-42cf-9434-dfe769832994",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1782785674574-aizayyaw0r.jpg",
                     "sortOrder": 2,
+                    "description": "객실",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "abc572c9-b15c-4a3f-bcd1-e079d0c6aecf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1782785674580-f78qs44y3y.jpg",
+                    "sortOrder": 3,
                     "description": "청계호수",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "1d0436e8-1885-412e-bcb5-a5577f572f0a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779769-04w6la9inb.jpg",
-                    "sortOrder": 3,
-                    "description": "개별바베큐",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "242edd21-b14e-4341-a8e0-3bb0c030b2a0",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779773-zpy7o9vh1p.jpg",
+                    "id": "5b96333e-0530-48e8-80c4-07106d5bbf44",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1782785674584-391pyk7p9m.jpg",
                     "sortOrder": 4,
-                    "description": "객실 내부",
+                    "description": "외경",
                     "isSelected": true,
                     "blockId": null
                   }
