@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.51.0",
-    "generatedAt": "2026-06-30T10:46:48.004547368Z",
+    "version": "1.52.0",
+    "generatedAt": "2026-06-30T10:49:21.108429065Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -1337,8 +1337,8 @@
                 "title": "Preview",
                 "images": [
                   {
-                    "id": "f7f4671e-c97d-4cf4-92b7-f93169cbd299",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1778222779670-n3jdc36vwi.jpg",
+                    "id": "bdef884a-fae3-460d-ae4f-0d9de7c3a47a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1782816558721-x42h371w8h.jpg",
                     "sortOrder": 0,
                     "description": "정원",
                     "isSelected": true,
