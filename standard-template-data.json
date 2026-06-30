@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.52.0",
-    "generatedAt": "2026-06-30T10:49:21.108429065Z",
+    "version": "1.53.0",
+    "generatedAt": "2026-06-30T10:49:54.686908059Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -1363,14 +1363,6 @@
                   {
                     "id": "afd8062b-2082-418e-888b-e88f3da47779",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1782816402933-08m1dp6b5g.jpg",
-                    "sortOrder": 3,
-                    "description": "청계호수",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "abc572c9-b15c-4a3f-bcd1-e079d0c6aecf",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_gallery/1782785674580-f78qs44y3y.jpg",
                     "sortOrder": 3,
                     "description": "청계호수",
                     "isSelected": true,
