@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.56.0",
-    "generatedAt": "2026-06-30T10:53:48.536678965Z",
+    "version": "1.57.0",
+    "generatedAt": "2026-06-30T10:59:24.240914382Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -1268,7 +1268,7 @@
                   {
                     "id": "568e6039-c475-4d1e-a68d-f08039f889fa",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_hero/1782714223604-rztrgqj0m5.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1276,7 +1276,7 @@
                   {
                     "id": "4736b44e-3e97-472d-8c7f-88f7cd42fff4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_hero/1778222146370-h86tdo7gec.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1284,7 +1284,7 @@
                   {
                     "id": "ebff993f-96b4-439b-ac44-621bd9f92d85",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_hero/1778222146467-mi328v83wh.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1292,7 +1292,7 @@
                   {
                     "id": "83119c4f-fec3-4b46-9e23-34eb735b6882",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/index_hero/1782714223601-m4c8gu5hpi.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
