@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.69.0",
-    "generatedAt": "2026-07-01T03:43:59.158343185Z",
+    "version": "1.70.0",
+    "generatedAt": "2026-07-02T00:57:20.267583527Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -1478,7 +1478,23 @@
                 ],
                 "description": "푸른 산과 나무들에 둘러싸여 조용히 쉬어가기 좋은 공간.\n아름답게 가꿔진 정원에서 여유로운 시간을 즐겨보세요.\n가까운 호수와 자연 풍경이 여행의 하루를 더욱 편안하게 채워줍니다.\n복잡한 일상에서 벗어나 온전한 힐링을 느낄 수 있는 포천 스테이입니다."
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "계절마다 다른 풍경을 품은 호수와 조용히 흐르는 시간 속에서 소중한 사람과 함께하는 순간이 더욱 깊은 추억으로 남습니다.",
+                  "images": [
+                    {
+                      "id": "681e42a4-089d-44cc-99f0-5d8883c58304",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1ba7525d-93b9-4984-9cff-701b9aa347cf/main_about/1782953837923-7f843j6nx8.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "3bbbf983-1791-48f1-843d-3b64e748f4a4"
+                    }
+                  ],
+                  "blockId": "3bbbf983-1791-48f1-843d-3b64e748f4a4",
+                  "description": ""
+                }
+              ]
             }
           ]
         },
