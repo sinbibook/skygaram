@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.117.0",
-    "generatedAt": "2026-09-21T08:32:36.033786929Z",
+    "version": "1.118.0",
+    "generatedAt": "2026-09-21T08:33:04.326814176Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "65b46b6b-0c5f-4a73-820d-1cbc90f5db09",
     "homepageId": "1ba7525d-93b9-4984-9cff-701b9aa347cf"
@@ -29,6 +29,9 @@
     "domain": "skygaram.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1655851",
     "ybsId": "21452",
+    "tripPropertyId": "12137",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -410,10 +413,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "12137",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
