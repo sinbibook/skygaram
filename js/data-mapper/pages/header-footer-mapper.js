@@ -477,14 +477,24 @@ class HeaderFooterMapper extends BaseDataMapper {
             ecommerceElement.textContent = businessInfo.eCommerceRegistrationNumber;
         }
 
-        // 저작권 정보 - '신비서' 주체명이 포함되어 저작권 문구 전체를 블라인드 처리(미노출)
-        // TODO: 추후 공급사 정보를 매핑해서 노출하도록 변경
+        // 저작권 정보 - property.tripProviderName(Trip11 공급자명) 이 있을 때만 노출한다.
+        // 값이 없으면 '신비서' 주체명이 노출되므로 기존대로 블라인드 처리한다.
         const copyrightElement = this.safeSelect('[data-footer-copyright]');
         if (copyrightElement) {
-            // const currentYear = new Date().getFullYear();
-            // copyrightElement.innerHTML = `<a href="https://www.sinbibook.com/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">© ${currentYear} 신비서. All rights reserved.</a>`;
-            copyrightElement.innerHTML = '';
-            copyrightElement.style.display = 'none';
+            const provider = String(this.safeGet(this.data, 'property.tripProviderName') || '').trim();
+            if (provider) {
+                const currentYear = new Date().getFullYear();
+                const copyrightLink = document.createElement('a');
+                copyrightLink.textContent = `© ${currentYear} ${provider}. All rights reserved.`;
+                copyrightLink.style.color = 'inherit';
+                copyrightLink.style.textDecoration = 'none';
+                copyrightElement.innerHTML = '';
+                copyrightElement.appendChild(copyrightLink);
+                copyrightElement.style.display = '';
+            } else {
+                copyrightElement.innerHTML = '';
+                copyrightElement.style.display = 'none';
+            }
         }
     }
 
